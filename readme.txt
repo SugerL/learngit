@@ -6,3 +6,4 @@ Git is free softwaretest1
 >>>>>>> feature1
 
 Git is free software test3
+Git is free software test4
